@@ -1,0 +1,6 @@
+[submodule "bolttech-test-be"]
+	path = bolttech-test-be
+	url = git@github.com:havorx/bolttech-test-be.git
+[submodule "bolttech-test-fe"]
+	path = bolttech-test-fe
+	url = git@github.com:havorx/bolttech-test-fe.git
